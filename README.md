@@ -40,10 +40,10 @@ This shows how modern **speech + vision models** can be applied to security chal
 
 ## 📊 Results (Current)
 - Pre-trained Wav2Vec2 → ~6% accuracy on synthetic audio captchas  
-- After fine-tuning (small synthetic set) → ~70–80%  
-- With larger Kaggle dataset → expected **90%+**  
+- After fine-tuning (small synthetic set) → ~30%  
+- With larger Kaggle dataset →  **78%+**  
 
-*(will update with plots + tables as experiments complete)*  
+
 
 ---
 
